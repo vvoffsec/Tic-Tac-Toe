@@ -7,6 +7,6 @@
 - Open the project in visual studio code
 - run g++ main.cpp -o main in the terminal
 
-#General Info 
+# General Info 
 - check the tutorial for info on how to move
 - stats will save 
