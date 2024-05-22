@@ -11,7 +11,7 @@
 - check the tutorial for info on how to move
 - stats will save 
 
-# Collaborators
+# Other Collaborators
  - @BakedSoups
  - @AditKhandelwal
  - @laithdarras
